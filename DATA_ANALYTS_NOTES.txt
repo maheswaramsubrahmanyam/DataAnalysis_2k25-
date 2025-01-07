@@ -1,1 +1,12 @@
-
+String Methods 
+syntax's 
+str.swapcase()#upper to lower or lower to upper 
+str.casefold() # folds into one single case 
+str.isalphabet() #checks is an alphabet or not returns true or false
+str.isdigit() # checks str contains digits or not returns true or false
+str.isalnum() # checks alphanumeric 
+str.isupper()
+str.islower()
+str.upper()
+str.lower()
+str.
