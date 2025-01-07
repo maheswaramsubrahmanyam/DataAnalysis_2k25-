@@ -9,4 +9,10 @@ str.isupper()
 str.islower()
 str.upper()
 str.lower()
-str.
+str.split()
+str is immutable but we can update / modify by usinh the replace method 
+str.replace("old_string", "new_string")
+join method 
+str1 = "kjskj"
+str2 = "aa".join(str1)
+
